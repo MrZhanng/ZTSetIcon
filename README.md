@@ -18,6 +18,6 @@
   
   
   
-  
-  //参考原作者https://github.com/DecembeGrirl
-  https://github.com/DecembeGrirl/YSHYClipImageDemo
+  新手第一次使用github望原谅
+  //参考至原作者https://github.com/DecembeGrirl
+
